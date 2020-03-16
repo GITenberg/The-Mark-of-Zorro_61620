@@ -1,0 +1,23 @@
+_repo: The-Mark-of-Zorro_61620
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCulley, Johnston
+    birthdate: 1883
+    deathdate: 1958
+    gutenberg_agent_id: '37927'
+    url: http://www.gutenberg.org/2009/agents/37927
+    wikipedia: http://en.wikipedia.org/wiki/Johnston_McCulley
+description: ''
+gutenberg_issued: '2020-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Mark of Zorro
+url: http://www.gutenberg.org/ebooks/61620
